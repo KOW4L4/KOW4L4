@@ -25,10 +25,10 @@
 ## 🛠️ Tech Stack & Tools
 
 ### Languages
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
 
 ### Frameworks & Tools
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" /> <img src="https://img.shields.io/badge/Unreal_Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white" /> <img src="https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white" /> <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white" /> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" /> <img src="https://img.shields.io/badge/Unreal_Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white" />
 
 ---
 
@@ -36,10 +36,12 @@
 
 | Project | Description | Technologies |
 | :--- | :--- | :--- |
-| **AI Healthcare Chatbot** | A web-based symptom-checking assistant with voice input/output and image analysis capabilities. | `Python`, `Flask`, `OpenAI API`, `Web Speech API`, `Bootstrap` |
-| **3D Scene Generation** | Automated rendering pipeline building complex 3D scenes to produce high-quality synthetic datasets for AI training. | `Python`, `Unreal Engine` |
-| **Command-Line Jungle Chess** | A fully tested, MVC-patterned command-line board game built through a complete software development lifecycle. | `Python`, `Unit Testing` |
-| **12 Mini-Games App** | A comprehensive Android mobile game featuring 12 unique levels and engaging UI/UX design. | `Java`, `XML`, `Android Studio` |
+| [Escape the Lab Game](https://github.com/KOW4L4/SEHH3165-EscapetheLabGroupProject) | A Java-based puzzle adventure game where players must solve challenges to escape from a laboratory. | `Java` |
+| [PoeAPI Medical Chatbot](https://github.com/KOW4L4/PoeAPI-Medical-Chatbot) | Multi-language chatbot combining web and AI, offering medical Q&A and interface integration. | `JavaScript`, `Python`, `HTML`, `CSS` |
+| [Jungle Chess CLI](https://github.com/KOW4L4/COMP3211-Jungle-CLI) | Command-line board game implementing classic Jungle Chess with Python. | `Python` |
+| [ChatProject: Security & Cryptography](https://github.com/KOW4L4/COMP3334-ChatProject-Security-Cryptography-) | A secure chat application focusing on encryption and privacy features. | `Python` |
+| [ATM Prototype](https://github.com/KOW4L4/SEHH2242-ATM-prototype) | Java-based prototype simulating ATM banking operations and transactions. | `Java` |
+| [Azure-OS](https://github.com/KOW4L4/COMP2432-Project-Azure-OS-) | Rust-driven operating system simulation with web interface and frontend tools. | `Rust`, `CSS`, `JavaScript`, `HTML` |
 
 ---
 
