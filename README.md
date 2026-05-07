@@ -2,14 +2,9 @@
   
   <h1>Hi there, I'm Fu Pok Kazaf 👋</h1>
   <h3>BSc in Computer Science @ PolyU |Inrested in AI, Game Dev</h3>
-
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&color=blue&style=flat-square" alt="Profile Views" />
   
   <br />
 
-  <a href="https://linkedin.com/in/your-linkedin-profile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
   <a href="mailto:kazaffu@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
@@ -43,7 +38,6 @@
 | :--- | :--- | :--- |
 | **AI Healthcare Chatbot** | A web-based symptom-checking assistant with voice input/output and image analysis capabilities. | `Python`, `Flask`, `OpenAI API`, `Web Speech API`, `Bootstrap` |
 | **3D Scene Generation** | Automated rendering pipeline building complex 3D scenes to produce high-quality synthetic datasets for AI training. | `Python`, `Unreal Engine` |
-| **Elderly Health STEM Game** | An interactive motion-tracking game designed to promote healthy diets for the elderly, integrating hardware and software. | `Scratch`, `Microbit`, `Motion Tracking` |
 | **Command-Line Jungle Chess** | A fully tested, MVC-patterned command-line board game built through a complete software development lifecycle. | `Python`, `Unit Testing` |
 | **12 Mini-Games App** | A comprehensive Android mobile game featuring 12 unique levels and engaging UI/UX design. | `Java`, `XML`, `Android Studio` |
 
@@ -52,6 +46,5 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radium&hide_border=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radium&hide_border=true" width="48%" />
 </div>
