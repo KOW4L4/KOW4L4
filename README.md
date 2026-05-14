@@ -24,8 +24,6 @@
 
 ## 🛠️ Tech Stack & Tools
 
-## 🛠️ Tech Stack & Tools
-
 ### Languages
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=sqlite&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/XML-00599C?style=flat-square" />
 
